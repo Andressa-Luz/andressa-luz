@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lin es=HELLO,+My+name+is+Úrsula+Fernanda;I'm+35+years+old;I'm+from+Brazil;Data+Scientist+Student;Be+Welcome!+:%29)](htt ps://git.io/typing-svg)
+HELLO,+My+name+is+Úrsula+Fernanda;I'm+35+years+old;I'm+from+Brazil;Data+Scientist+Student;Be+Welcome!+:%29)](htt ps://git.io/typing-svg)
 **Andressa-Luz/andressa-luz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
