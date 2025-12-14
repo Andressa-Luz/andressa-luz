@@ -1,8 +1,6 @@
 ## Hi there 👋
-HELLO,+My+name+is+Úrsula+Fernanda;I'm+35+years+old;I'm+from+Brazil;Data+Scientist+Student;Be+Welcome!+:%29)](htt ps://git.io/typing-svg)
-**Andressa-Luz/andressa-luz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Andressa and here we have some facts about me
 
 - 🔭 I’m currently working on a restaurant...
 - 🌱 I’m currently learning data science...
