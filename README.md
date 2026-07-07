@@ -19,3 +19,20 @@ Coordenadora de operações com experiência em liderança de equipes e resoluç
 * Fundamentos de Angular
 
 * Práticas de TDD e Clean Code (Teoria em andamento)
+
+Focused on becoming a Thoughtworker
+
+About Me
+
+Operations coordinator with experience in team leadership and problem-solving under pressure. Currently applying this resilience to transition into software development.
+
+My Tech Journey
+
+DIO course in partnership with Universia focused on Generative AI
+Studying computer science fundamentals (Algorithms and Data Structures) at UFMS to build a solid foundation before advancing into syntax
+
+Roadmap to Thoughtworks
+
+Initial proficiency in C# and .NET
+Fundamentals of Angular
+TDD and Clean Code practices (theoretical study in progress)
